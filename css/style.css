@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+div {
+    margin: auto;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    margin: 0 auto;
+}
+
+p {
+    top: 0;
+    right: 0;
+}
