@@ -26,7 +26,13 @@ img {
     margin: 0 auto;
 }
 
-p {
-    top: 0;
-    right: 0;
+.nom {
+   display: flex;
+   flex-direction: row;
+   justify-content: end;
+   gap: .2em;
+   background-color: rgba(1, 53, 23, 0.911);
+   width: 100%;
+   padding: 1em ;
+   color: aliceblue;
 }
